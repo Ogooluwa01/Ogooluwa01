@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Ogooluwa (@Ogooluwa01)
 - 
-- 👀 **Interest**
+## 👀 **Interest**
 - Data science
 - machine Learning
 - Cyber Security
 - Open to internships and learning opportunities
 - 
-- 🌱**Currently_Learning**
+## 🌱**Currently_Learning**
 - Artificial Intelligence
 
 ## 💼 Looking to Collaborate
@@ -15,9 +15,8 @@
 
 - ## 📫 How to Reach Me
 - **Email:** aleyiboogooluwamary@gmail.com
-- 
 - 😄 Pronouns: she/her ...
-- 
+  
 ## 🛠️ Skills & Tools
 - Python | Pandas |C++ | NumPy | Scikit-learn | TensorFlow
 - SQL | Jupyter | Git & GitHub|AWS instances| Autopsy digital forencisc|
